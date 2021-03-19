@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gacem</h1>
 <h3 align="center">A passionate Junior full stack developer from Paris</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on few projects (top secret for know *-*)
 
 - 📫 How to reach me **gacemcode@gmail.com**
 
