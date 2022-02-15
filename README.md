@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gacem</h1>
 <h3 align="center">A Junior full stack developer from Paris</h3>
 
-- 📝 I'm looking for a job opportunity in Paris 
-
 - 📫 How to reach me **gacembenayad@gmail.com**
 
 <h4 align="left">Programming Languages</h4>
