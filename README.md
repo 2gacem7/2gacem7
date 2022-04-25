@@ -23,5 +23,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gacem-ben-ayad-900b491b4/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/gacem-ben-ayad-900b491b4/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gacem-ben-ayad-900b491b4/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/gacem-ben-ayad-900b491b4/" height="50" width="40" /></a>
 </p>
