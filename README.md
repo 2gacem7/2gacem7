@@ -13,8 +13,8 @@ Alors contactez-moi pour en savoir plus sur mes compétences et discuter de votr
 </h3>
 
 - 📫 How to reach me **gacembenayad@gmail.com**
-- <a href="https://www.malt.fr/profile/gacembenayad?overview=true" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logo_Malt.svg/1200px-Logo_Malt.svg.png" alt="javascript" width="60" height="30"/> </a> 
-</a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="typescript" width="40" height="40"/> </a>  : https://www.malt.fr/profile/gacembenayad?overview=true
+- <a href="https://www.malt.fr/profile/gacembenayad?overview=true" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logo_Malt.svg/1200px-Logo_Malt.svg.png" alt="javascript" width="80" height="40"/> </a> 
+</a>  : https://www.malt.fr/profile/gacembenayad?overview=true
  
 
 <h4 align="left">Programming Languages</h4>
