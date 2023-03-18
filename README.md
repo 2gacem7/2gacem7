@@ -1,5 +1,5 @@
-<h1 align="center">Bonjour 👋</h1>
-<h3>Vous utilisez les plateformes TV tels que Arte.tv ou TV5Monde plus ? Si vous utilisez ces plateformes, il est possible que vous ayez déjà expérimenté mon travail !
+<h2 align="center">Bonjour !</h2>
+<h4>Vous utilisez les plateformes TV tels que Arte.tv ou TV5Monde plus ? Si vous utilisez ces plateformes, il est possible que vous ayez déjà expérimenté mon travail !
 
 Amélioration de l'expérience utilisateur, intégration de nouvelles fonctionnalités, refontes d'interfaces, résolution des problèmes techniques.. 
 
@@ -10,10 +10,10 @@ Je suis capable de travailler efficacement en équipe, mais également de prendr
 Si vous cherchez à améliorer l'expérience utilisateur, moderniser et rendre plus efficace l'interface ou à améliorer la qualité de votre site web dans son ensemble, je suis là pour vous aider. 
 
 Alors contactez-moi pour en savoir plus sur mes compétences et discuter de votre projet. 
-</h3>
+</h4>
 
-- Mon Profil Malt : https://www.malt.fr/profile/gacembenayad?overview=true 
-- 📫 How to reach me **gacembenayad@gmail.com**
+- <h6>Mon Profil Malt : https://www.malt.fr/profile/gacembenayad?overview=true </h6>
+- 📫 <h6>How to reach me **gacembenayad@gmail.com** </h6>
 
 <h4 align="left">Programming Languages</h4>
 <p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
