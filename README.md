@@ -12,7 +12,7 @@ Si vous cherchez à améliorer l'expérience utilisateur, moderniser et rendre p
 Alors contactez-moi pour en savoir plus sur mes compétences et discuter de votre projet. 
 </h4>
 
-- <h6>Mon Profil Malt : https://www.malt.fr/profile/gacembenayad?overview=true </h6>
+- <h4>Mon Profil Malt : https://www.malt.fr/profile/gacembenayad?overview=true </h4>
 -  How to reach me **gacembenayad@gmail.com** 📫
 
 <h4 align="left">Programming Languages</h4>
