@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gacem</h1>
-<h3 align="center">A Junior full stack developer from Paris</h3>
+<h3 align="center">Vous utilisez les plateformes TV tels que Arte.tv ou TV5Monde plus ? Si vous utilisez ces plateformes, il est possible que vous ayez déjà expérimenté mon travail !
+
+Amélioration de l'expérience utilisateur, intégration de nouvelles fonctionnalités, refontes d'interfaces, résolution des problèmes techniques.. 
+
+Ma spécialisation ? Les frameworks tel que Vue ou React, les languages JavaScript et Typescript. 
+
+Je suis capable de travailler efficacement en équipe, mais également de prendre en charge des projets de manière autonome. Cette polyvalence me permet de m'adapter à vos différents besoins et de garantir la réussite de chaque projet, qu'il soit mené en équipe ou seul.
+
+Si vous cherchez à améliorer l'expérience utilisateur, moderniser et rendre plus efficace l'interface ou à améliorer la qualité de votre site web dans son ensemble, je suis là pour vous aider. 
+
+Alors contactez-moi pour en savoir plus sur mes compétences et discuter de votre projet. 
+</h3>
 
 - 📫 How to reach me **gacembenayad@gmail.com**
 
