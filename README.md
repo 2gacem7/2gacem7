@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gacem</h1>
+<h1 align="center">Bonjour 👋</h1>
 <h3>Vous utilisez les plateformes TV tels que Arte.tv ou TV5Monde plus ? Si vous utilisez ces plateformes, il est possible que vous ayez déjà expérimenté mon travail !
 
 Amélioration de l'expérience utilisateur, intégration de nouvelles fonctionnalités, refontes d'interfaces, résolution des problèmes techniques.. 
