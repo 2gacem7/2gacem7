@@ -12,11 +12,9 @@ Si vous cherchez à améliorer l'expérience utilisateur, moderniser et rendre p
 Alors contactez-moi pour en savoir plus sur mes compétences et discuter de votre projet. 
 </h3>
 
-- 📫 How to reach me **gacembenayad@gmail.com**
-- <a href="https://www.malt.fr/profile/gacembenayad?overview=true" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logo_Malt.svg/1200px-Logo_Malt.svg.png" alt="javascript" width="80" height="40"/> </a> 
+- Mon Profil Malt : https://www.malt.fr/profile/gacembenayad?overview=true => <a href="https://www.malt.fr/profile/gacembenayad?overview=true" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Logo_Malt.svg/1200px-Logo_Malt.svg.png" alt="javascript" width="40" height="20"/> </a> 
 </a>  
--Mon Profil Malt : https://www.malt.fr/profile/gacembenayad?overview=true
- 
+- 📫 How to reach me **gacembenayad@gmail.com**
 
 <h4 align="left">Programming Languages</h4>
 <p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
