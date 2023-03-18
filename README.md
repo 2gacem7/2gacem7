@@ -13,7 +13,7 @@ Alors contactez-moi pour en savoir plus sur mes compétences et discuter de votr
 </h4>
 
 - <h6>Mon Profil Malt : https://www.malt.fr/profile/gacembenayad?overview=true </h6>
--  <h6>How to reach me **gacembenayad@gmail.com** 📫 </h6> 
+-  How to reach me **gacembenayad@gmail.com** 📫
 
 <h4 align="left">Programming Languages</h4>
 <p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
