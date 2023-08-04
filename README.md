@@ -1,4 +1,4 @@
-<h2 align="center">Bonjour !</h2>
+<h2 align="center">Hello World !</h2>
 <h4>En tant que développeur frontend expérimenté, j'ai contribué de manière significative à divers projets axés sur la création et l'amélioration d'expériences utilisateur engageantes. Mon expertise englobe plusieurs technologies, notamment JavaScript, TypeScript, React.js, Next.js, Vue.js et Nuxt.js. J'ai travaillé dans des environnements agiles en suivant les principes Scrum, participant activement aux rituels tels que la planification de sprint, les réunions quotidiennes, les revues et les rétrospectives.
 
 Mon parcours inclut des réalisations clés telles que l'intégration de nouvelles fonctionnalités et la refonte d'interfaces pour des plateformes de streaming telles qu'ARTE TV et TV5 Monde. J'ai également contribué à des projets de développement d'outils, notamment Bricky, où j'ai joué un rôle essentiel dans la migration vers les dernières versions de frameworks tels que Vue 3 et Nuxt.js. Ma maîtrise des principes de conception, tels que l'Atomic Design et les systèmes de design, a renforcé mon impact sur la création de produits cohérents et visuellement attrayants.
