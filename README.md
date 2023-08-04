@@ -1,15 +1,9 @@
 <h2 align="center">Bonjour !</h2>
-<h4>Vous utilisez les plateformes TV tels que Arte.tv ou TV5Monde plus ? Si vous utilisez ces plateformes, il est possible que vous ayez déjà expérimenté mon travail !
+<h4>En tant que développeur frontend expérimenté, j'ai contribué de manière significative à divers projets axés sur la création et l'amélioration d'expériences utilisateur engageantes. Mon expertise englobe plusieurs technologies, notamment JavaScript, TypeScript, React.js, Next.js, Vue.js et Nuxt.js. J'ai travaillé dans des environnements agiles en suivant les principes Scrum, participant activement aux rituels tels que la planification de sprint, les réunions quotidiennes, les revues et les rétrospectives.
 
-Amélioration de l'expérience utilisateur, intégration de nouvelles fonctionnalités, refontes d'interfaces, résolution des problèmes techniques.. 
+Mon parcours inclut des réalisations clés telles que l'intégration de nouvelles fonctionnalités et la refonte d'interfaces pour des plateformes de streaming telles qu'ARTE TV et TV5 Monde. J'ai également contribué à des projets de développement d'outils, notamment Bricky, où j'ai joué un rôle essentiel dans la migration vers les dernières versions de frameworks tels que Vue 3 et Nuxt.js. Ma maîtrise des principes de conception, tels que l'Atomic Design et les systèmes de design, a renforcé mon impact sur la création de produits cohérents et visuellement attrayants.
 
-Ma spécialisation ? Les frameworks tel que Vue ou React, les languages JavaScript et Typescript. 
-
-Je suis capable de travailler efficacement en équipe, mais également de prendre en charge des projets de manière autonome. Cette polyvalence me permet de m'adapter à vos différents besoins et de garantir la réussite de chaque projet, qu'il soit mené en équipe ou seul.
-
-Si vous cherchez à améliorer l'expérience utilisateur, moderniser et rendre plus efficace l'interface ou à améliorer la qualité de votre site web dans son ensemble, je suis là pour vous aider. 
-
-Alors contactez-moi pour en savoir plus sur mes compétences et discuter de votre projet. 
+Je suis reconnu pour ma capacité à collaborer efficacement au sein d'équipes multidisciplinaires, travaillant en étroite collaboration avec des Product Owners, des designers et des testeurs pour offrir des solutions de haute qualité. Ma passion pour l'innovation technologique se reflète dans ma volonté constante d'explorer de nouvelles approches et d'adopter les meilleures pratiques pour assurer le succès des projets. Mon expérience variée en développement frontend, associée à mon engagement envers l'excellence, fait de moi un atout précieux pour créer des expériences web exceptionnelles et fonctionnelles.
 </h4>
 
 - <h4>Mon Profil Malt : https://www.malt.fr/profile/gacembenayad?overview=true </h4>
