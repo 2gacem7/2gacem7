@@ -1,4 +1,4 @@
-# Développeur Frontend Passionné 🚀
+# Développeur Frontend 🚀
 
 En tant que développeur frontend expérimenté, je suis constamment motivé par la création d'expériences utilisateur captivantes et mémorables. Mon parcours est jalonné de contributions significatives à des projets divers, où mon expertise technique et ma passion pour l'innovation ont fusionné pour créer des produits exceptionnels. Voici un aperçu de ce que je peux apporter à votre équipe :
 
