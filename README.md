@@ -13,4 +13,4 @@ Je suis reconnu pour ma capacité à collaborer efficacement au sein d'équipes 
 
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&fontFamily=Bebas+Neue&showBorder=false&lineHeight=8&lineCount=2&theme=github&gap=16&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%230969DA&line1=Javascript%2CJavascript%2CF0DB4F%3Btypescript%2Ctypescript%2C007acc%3Breact%2Creact%2C61dbfb%3BVue.js%2CVue.js%2C42b883%3B&line2=Next.js%2CNext.js%2C000000%3BNuxt.js%2CNuxt.js%2C42b883%3BJest%2CJest%2C99425b%3BCypress%2CCypress%2C0f2e2e%3B#gh-light-mode-only" alt="My Tech Stack" />
 
-<img src="![cardlight](https://github.com/2gacem7/2gacem7/assets/69805967/ff85e90a-8aee-408b-b22d-014ac0416667#gh-light-mode-only)" alt="My Tech Stack" />
+<img src="![cardlight](https://github.com/2gacem7/2gacem7/assets/69805967/ff85e90a-8aee-408b-b22d-014ac0416667.png#gh-light-mode-only)" alt="My Tech Stack" />
