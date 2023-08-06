@@ -10,7 +10,7 @@ Je suis reconnu pour ma capacité à collaborer efficacement au sein d'équipes 
 -  How to reach me **gacembenayad@gmail.com** 📫
 
 <h4 align="left">Programming Languages</h4>
-<p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" alt="javascript" width="40" height="40"/> </a> 
 </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="typescript" width="40" height="40"/> </a> 
 
 <h4 align="left">Frontend Development</h4>
