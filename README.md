@@ -6,9 +6,6 @@ Mon parcours inclut des réalisations clés telles que l'intégration de nouvell
 Je suis reconnu pour ma capacité à collaborer efficacement au sein d'équipes multidisciplinaires, travaillant en étroite collaboration avec des Product Owners, des designers et des testeurs pour offrir des solutions de haute qualité. Ma passion pour l'innovation technologique se reflète dans ma volonté constante d'explorer de nouvelles approches et d'adopter les meilleures pratiques pour assurer le succès des projets. Mon expérience variée en développement frontend, associée à mon engagement envers l'excellence, fait de moi un atout précieux pour créer des expériences web exceptionnelles et fonctionnelles.
 </h4>
 
-- <h4>Mon Profil Malt : https://www.malt.fr/profile/gacembenayad?overview=true </h4>
--  How to reach me **gacembenayad@gmail.com** 📫
-
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=MY+TECH+STACK&align=center&fontFamily=Bebas+Neue&fontWeight=bold&showBorder=false&lineHeight=8&lineCount=2&theme=github&gap=16&width=800&hideBg=true&hideTitle=true&bg=%23FFFFFF&badge=%23EAEFFC&border=%23D8DEE4&titleColor=%23623cea&line1=Javascript%2CJavascript%2CF0DB4F%3Btypescript%2Ctypescript%2C007acc%3Breact%2Creact%2C61dbfb%3BVue.js%2CVue.js%2C42b883%3Bhtml5%2Chtml5%2Ce34c26%3BCSS3%2CCSS3%2C264de4%3B&line2=Next.js%2CNext.js%2C000000%3BNuxt.js%2CNuxt.js%2C42b883%3BJest%2CJest%2C99425b%3BCypress%2CCypress%2C0f2e2e%3BSass%2CSass%2CCD6799%3Bdocker%2Cdocker%2C0db7ed%3B" alt="MY TECH STACK" />
 
 
