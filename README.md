@@ -15,7 +15,7 @@ J'ai la chance d'avoir contribué à des projets qui ont façonné des expérien
 - **Dotscreen - ARTE TV & TV5 Monde**: J'ai mis en œuvre de nouvelles fonctionnalités et repensé des interfaces pour ces plateformes de streaming emblématiques, améliorant ainsi l'accessibilité et l'engagement des utilisateurs.
 - **Brickmeup - Solution de calculs du TRI**: J'ai travaillé sur la migration vers les dernières versions de frameworks tels que Vue 3 et Nuxt.js et j'ai travaillé sur l'ajout de calculs, assurant ainsi que l'outil reste à la pointe de la technologie.
 - **Lomads - Refonte de l'interface utilisateur**: J'ai participé à la refonte de l'interface utilisateur, contribuant ainsi à améliorer l'expérience sur leur plateforme dédiée à l'organisation d'événements thématiques.
-- **Pertimm - Ajout de fonctionnalité e-commerce**:J'ai contribué en Vue 2 - JavaScript en intégrant de nouvelles fonctionnalités, notamment le développement du Panier et du système de Paiement, pour créer des expériences utilisateur fluides et engageantes.
+- **Pertimm - Ajout de fonctionnalité e-commerce**: J'ai contribué en Vue 2 - JavaScript en intégrant de nouvelles fonctionnalités, notamment le développement du Panier et du système de Paiement, pour créer des expériences utilisateur fluides et engageantes.
 
 
 ## Projets sur GitHub 🌐
