@@ -9,20 +9,5 @@ Je suis reconnu pour ma capacité à collaborer efficacement au sein d'équipes 
 - <h4>Mon Profil Malt : https://www.malt.fr/profile/gacembenayad?overview=true </h4>
 -  How to reach me **gacembenayad@gmail.com** 📫
 
-<h4 align="left">Programming Languages</h4>
-<p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" alt="javascript" width="40" height="40"/> </a> 
-</a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="typescript" width="40" height="40"/> </a> 
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=javascript%2Cjavascript%2Cf0db4f%3Btypescript%2Ctypescript%2C007acc%3Breact%2Creact%2C61dbfb%3Bvue.js%2Cvue.js%2C41B883%3BNext.js%2CNext.js%2C000000%3BNuxt.js%2CNuxt.js%2C41b883%3BSass%2CSass%2CCD6799%3BHTML5%2CHTML5%2Ce34c26%3Bjest%2Cjest%2CC63D14%3B" alt="My Tech Stack" />
 
-<h4 align="left">Frontend Development</h4>
-<a href="https://nuxtjs.org/fr/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" alt="nuxt" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<h4 align="left">Backend Development</h4>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> 
-<h4 align="left">Database</h4>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<h4 align="left">Other</h4>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </a>     </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gacem-ben-ayad-900b491b4/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="https://www.linkedin.com/in/gacem-ben-ayad-900b491b4/" height="50" width="50" /></a>
-</p>
