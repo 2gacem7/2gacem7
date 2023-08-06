@@ -9,5 +9,5 @@ Je suis reconnu pour ma capacité à collaborer efficacement au sein d'équipes 
 - <h4>Mon Profil Malt : https://www.malt.fr/profile/gacembenayad?overview=true </h4>
 -  How to reach me **gacembenayad@gmail.com** 📫
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=javascript%2Cjavascript%2Cf0db4f%3Btypescript%2Ctypescript%2C007acc%3Breact%2Creact%2C61dbfb%3Bvue.js%2Cvue.js%2C41B883%3BNext.js%2CNext.js%2C000000%3BNuxt.js%2CNuxt.js%2C41b883%3BSass%2CSass%2CCD6799%3BHTML5%2CHTML5%2Ce34c26%3Bjest%2Cjest%2CC63D14%3B" alt="My Tech Stack" width="100%" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&fontFamily=Bebas+Neue&lineHeight=8&lineCount=2&gap=16&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%23623cea&line1=Javascript%2CJavascript%2CF0DB4F%3Btypescript%2Ctypescript%2C007acc%3Breact%2Creact%2C61dbfb%3BVue.js%2CVue.js%2C42b883%3B&line2=Next.js%2CNext.js%2C000000%3BNuxt.js%2CNuxt.js%2C42b883%3BJest%2CJest%2C99425b%3BCypress%2CCypress%2C0f2e2e%3B" alt="My Tech Stack" />
 
