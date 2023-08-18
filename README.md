@@ -32,7 +32,7 @@ Je crois fermement que la conception est au cœur de toute expérience utilisate
 
 ## Prêt pour de Nouveaux Défis 🔥
 
-Mon parcours varié en développement frontend, associé à mon engagement envers l'excellence, fait de moi un atout inestimable pour créer des expériences web exceptionnelles et fonctionnelles. Je suis prêt à relever de nouveaux défis passionnants et à apporter ma passion pour la technologie et mon expertise à votre équipe.
+Je suis prêt à relever de nouveaux défis passionnants et à apporter ma passion pour la technologie et mon expertise à votre équipe.
 
 N'hésitez pas à me contacter à [gacembenayad@gmail.com](mailto:gacembenayad@gmail.com) pour discuter de collaborations, d'opportunités ou simplement pour échanger des idées innovantes. Connectons-nous et donnons vie à des expériences web extraordinaires ensemble ! 🌟
 
